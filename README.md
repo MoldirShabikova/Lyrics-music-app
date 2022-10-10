@@ -2,5 +2,5 @@
 
 Develop an elegant React.js Music Application. 
 
-Check out the complete project here - [Music-Lyrics](music-lyriks-app.netlify.app)
+Check out the complete project here - [Music-Lyrics] (https://music-lyriks-app.netlify.app/)
 
